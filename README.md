@@ -7,5 +7,5 @@
 - sass
 - react js
 - Ajax
-- Api
-- responsive 
+- API
+- responsive design
