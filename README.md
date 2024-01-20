@@ -1,12 +1,8 @@
 # I am Aria Jafari 
-## hello
-### hekllo
-#### hello
-
-
 ## skills 👇
 - html
 - css
-- js
-
-`test text`
+- javascript ES6
+- react js
+- bootstrap5
+- sass
