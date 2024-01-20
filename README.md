@@ -3,6 +3,9 @@
 - html
 - css
 - javascript ES6
-- react js
 - bootstrap5
 - sass
+- react js
+- Ajax
+- Api
+- responsive 
