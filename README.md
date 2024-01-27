@@ -18,6 +18,7 @@ I am an enthusiastic web developer passionate about improving user experience an
 - Ajax
 - API
 - responsive design
+- version controling (git)
 
 ## My social links 👇
 - telegram (https://web.telegram.org/k/#@AriaJafariii)
